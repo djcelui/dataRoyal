@@ -1,0 +1,64 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "RoyalServers",
+				"imageurl": "https://i.imgur.com/uOxnvQ2.png",
+				"content": [
+					{
+						"title": "Bienvenido a RoyalServers",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "RoyalServers",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Info Cluster",
+						"text": "--==  PLAYER STATS ==--\r\n  XP: x 2\r\n  Player farming: x4\r\n  Dino farming: x4\r\n  Velocidad de tameo: x4\r\n  Peso: 150 / 10\r\n  Energía: 150 / 10\r\n  Vida: 150 / 10"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "New Tab",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "New Title",
+						"text": "New Text"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/invite/WqbU2MEspM"
+			}
+		],
+		"version": 2
+	}
+}
