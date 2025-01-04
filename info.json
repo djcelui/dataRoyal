@@ -8,8 +8,8 @@
 			"hideiconafter": 60,
 			"iconurl": "https://i.imgur.com/uOxnvQ2.png",
 			"disableicontext": false,
-			"iconposition": 0,
-			"icontextcolor": 0,
+			"iconposition": 150,
+			"icontextcolor": 50,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 12
