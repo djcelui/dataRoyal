@@ -40,17 +40,6 @@
 						"text": ""
 					}
 				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "New Tab",
-				"imageurl": "",
-				"content": [
-					{
-						"title": "New Title",
-						"text": "New Text"
-					}
-				]
 			}
 		],
 		"links": [
